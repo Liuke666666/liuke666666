@@ -1,0 +1,213 @@
+body {
+  margin: 0;
+}
+li {
+  list-style: none;
+}
+.m-bg {
+  position: absolute;
+  width: 608px;
+  height: 881px;
+  background: url("../img/bk1.jpg") no-repeat;
+  background-size: 50% 50%;
+  opacity: 0.4;
+}
+
+.m-taobao {
+  width: 292px;
+  height: 440px;
+  border: 7px solid #eee;
+}
+.m-hd {
+  height: 57px;
+}
+.m-hd > li > label {
+  display: block;
+  color: #ff6600;
+  font-weight: bold;
+  font-size: 14px;
+}
+.m-hd > li > span {
+  font-size: 12px;
+}
+
+.m-hd > li:nth-child(1) {
+  position: absolute;
+  left: 36px;
+}
+.m-hd > li:nth-child(2) {
+  position: absolute;
+  left: 100px;
+}
+.m-hd > li:nth-child(3) {
+  position: absolute;
+  left: 170px;
+}
+.m-hd > li:nth-child(4) {
+  position: absolute;
+  left: 235px;
+}
+
+.m-hd > li {
+  text-align: center;
+  top: 16px;
+}
+.m-hd1 {
+  background: rgb(252, 99, 44);
+  margin-top: 1px;
+}
+.m-hd1 > label {
+  font-size: 10px;
+  color: #ff0000;
+  margin-left: 85px;
+  letter-spacing: 1.2px;
+}
+.m-hd2 {
+  margin-top: 18px;
+  font-size: 10px;
+  margin-left: 25px;
+  letter-spacing: 8px;
+}
+.m-hd3 {
+  margin-top: 20px;
+  font-size: 10px;
+  margin-left: 15px;
+  letter-spacing: 1px;
+  color: #ff6600;
+}
+.m-hd3 :nth-child(1) {
+  margin-top: 20px;
+  font-size: 10px;
+  margin-left: -2px;
+  letter-spacing: 1px;
+  color: #ff6600;
+}
+.m-hd3 :nth-child(2) {
+  margin-top: 20px;
+  font-size: 10px;
+  margin-left: 10px;
+  letter-spacing: 1px;
+  color: #ff6600;
+}
+.m-hd4 {
+  margin-top: 7px;
+}
+.m-hd4 > :nth-child(1) {
+  margin-top: 10px;
+  font-size: 1px;
+  margin-left: 11px;
+  letter-spacing: 1px;
+}
+.m-hd4 > :nth-child(2) {
+  margin-top: 10px;
+  font-size: 1px;
+  margin-left: 28px;
+  letter-spacing: 1px;
+}
+.m-hd5 > li:nth-child(1) {
+  position: absolute;
+  left: 25px;
+  top: 242px;
+  font-size: 10px;
+  color: #ff6600;
+}
+.m-hd5 > li:nth-child(2) {
+  position: absolute;
+  left: 102px;
+  top: 242px;
+  font-size: 10px;
+}
+.m-hd5 > li:nth-child(3) {
+  position: absolute;
+  left: 175px;
+  top: 242px;
+  font-size: 10px;
+}
+.m-hd5 > li:nth-child(4) {
+  position: absolute;
+  left: 250px;
+  top: 242px;
+  font-size: 10px;
+}
+.m-hd6 > li:nth-child(1) {
+  position: absolute;
+  left: 30px;
+  top: 285px;
+  font-size: 10px;
+  color: #ff6600;
+}
+.m-hd6 > li:nth-child(2) {
+  position: absolute;
+  left: 90px;
+  top: 285px;
+  font-size: 10px;
+}
+.m-hd6 > li:nth-child(3) {
+  position: absolute;
+  left: 150px;
+  top: 285px;
+  font-size: 10px;
+}
+.m-hd6 > li:nth-child(4) {
+  position: absolute;
+  left: 210px;
+  top: 285px;
+  font-size: 10px;
+}
+
+.m-hd7 {
+  width: 200px;
+  margin-top: 125px;
+  margin-left: 20px;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.m-hd8 {
+  width: 200px;
+  margin-top: 5px;
+  margin-left: 20px;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.m-hd9 {
+  margin-top: 5px;
+}
+.m-hd9 :nth-child(1) {
+  position: absolute;
+  left: 10px;
+  width: 100px;
+  font-size: 15px;
+}
+.m-hd9 :nth-child(2) {
+  position: absolute;
+  left: 40px;
+  width: 50px;
+}
+.m-hd9 :nth-child(3) {
+  position: absolute;
+  left: 55px;
+  width: 300px;
+  color: #ff6600;
+}
+.m-hd10 {
+  background: #ff6600;
+  width: 70px;
+  height: 28px;
+  margin-top: 28px;
+  margin-left: 15px;
+}
+.m-hd10 > li:nth-child(1) {
+  position: absolute;
+  top: 395px;
+  left: 32px;
+  color: white;
+  font-size: 11px;
+}
+.m-hd10 > li {
+  text-align: center;
+  top: 20px;
+}
